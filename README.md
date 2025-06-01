@@ -55,7 +55,7 @@ print(dict3)
 ## Result
 Thus,the program has been executed successfully.
 
-# 3.  🔤 Dictionary-Python Program to Sort a Dictionary by Keys and Values
+# 3.Dictionary-Python Program to Sort a Dictionary by Keys and Values
 
 This Python program demonstrates how to sort a dictionary:
 - Alphabetically by keys
